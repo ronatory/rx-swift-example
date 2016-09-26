@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RxSwiftExample
 //
-//  Created by Ronny Glotzbach on 26.09.16.
+//  Created by ronatory on 26.09.16.
 //  Copyright © 2016 ronatory. All rights reserved.
 //
 
