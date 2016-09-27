@@ -6,7 +6,7 @@ A rx swift example
 
 To install, download it or clone and then start `pod install` from the project directory.
 
-## API Reference
+## Framework Reference
 
 - Use [ReactiveX](https://github.com/ReactiveX/RxSwift/blob/rxswift-2.0/)
 
